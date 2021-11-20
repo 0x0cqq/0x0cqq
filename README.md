@@ -1,3 +1,4 @@
 # 🌟 Stay simple. Stay naïve. 👀
 
-![ChenQiqian's github stats](https://github-readme-stats.vercel.app/api?username=ChenQiqian) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenQiqian&layout=compact)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/ChenQiqian/ChenQiqian/blob/master/github-metrics.svg)
