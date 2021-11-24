@@ -1638,21 +1638,21 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 188 edited files from 108 commits over last 87 days
+            estimation from 189 edited files from 108 commits over last 87 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.4826240782991" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="168.4826240782991" y="0" width="158.50097543233144" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="326.98359951063054" y="0" width="83.73747644082928" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="410.72107595145985" y="0" width="18.447987964156997" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="429.1690639156168" y="0" width="9.487319379691169" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="438.656383295308" y="0" width="9.407466190523426" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="448.06384948583144" y="0" width="7.920675858876434" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.9845253447079" y="0" width="4.015474655292134" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.19125671891925" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="170.19125671891925" y="0" width="156.75104743608085" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="326.94230415500004" y="0" width="82.81297390095854" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="409.75527805595857" y="0" width="18.34584806556439" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="428.101126121523" y="0" width="9.382574751170063" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="437.483700872693" y="0" width="9.30360318011813" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="446.7873040528111" y="0" width="9.241554088577326" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.02885814138847" y="0" width="3.9711418586114573" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1662,8 +1662,8 @@
                       C++
                     </div>
                             <small>
-                                <div>88.6 kB</div>
-                                <div>36.63%</div>
+                                <div>90.5 kB</div>
+                                <div>37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1673,7 +1673,7 @@
                     </div>
                             <small>
                                 <div>44 kB</div>
-                                <div>18.2%</div>
+                                <div>18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1683,7 +1683,7 @@
                     </div>
                             <small>
                                 <div>4.99 kB</div>
-                                <div>2.06%</div>
+                                <div>2.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1692,8 +1692,8 @@
                       C
                     </div>
                             <small>
-                                <div>4.17 kB</div>
-                                <div>1.72%</div>
+                                <div>4.92 kB</div>
+                                <div>2.01%</div>
                             </small>
                         </div>
                     </section>
@@ -1705,7 +1705,7 @@
                     </div>
                             <small>
                                 <div>83.3 kB</div>
-                                <div>34.46%</div>
+                                <div>34.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1714,8 +1714,8 @@
                       YAML
                     </div>
                             <small>
-                                <div>9.70 kB</div>
-                                <div>4.01%</div>
+                                <div>9.76 kB</div>
+                                <div>3.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1725,7 +1725,7 @@
                     </div>
                             <small>
                                 <div>4.95 kB</div>
-                                <div>2.05%</div>
+                                <div>2.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1735,7 +1735,7 @@
                     </div>
                             <small>
                                 <div>2.11 kB</div>
-                                <div>0.87%</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                     </section>
@@ -1952,7 +1952,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2021, 22:16:27 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 24 Nov 2021, 23:18:58 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
