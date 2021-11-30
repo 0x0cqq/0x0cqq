@@ -1645,14 +1645,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.09159173868414" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="176.09159173868414" y="0" width="163.3367265664598" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="339.42831830514393" y="0" width="86.29224681724672" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="425.7205651223906" y="0" width="9.694481239964052" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="435.4150463623547" y="0" width="8.30731617975901" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="443.7223625421137" y="0" width="8.08004054842598" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="451.8024030905397" y="0" width="4.7747475306775256" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="456.57715062121724" y="0" width="3.4228493787827805" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.6349644510899" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="172.6349644510899" y="0" width="163.36038373227348" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="335.9953481833634" y="0" width="86.3047451085637" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="422.30009329192706" y="0" width="11.735783630887722" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="434.03587692281474" y="0" width="9.695885357427358" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="443.7317622802421" y="0" width="8.081210835495236" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="451.8129731157373" y="0" width="4.775439089743426" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="456.5884122054808" y="0" width="3.411587794519206" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1662,8 +1662,8 @@
                       C++
                     </div>
                             <small>
-                                <div>89.8 kB</div>
-                                <div>38.28%</div>
+                                <div>88.1 kB</div>
+                                <div>37.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1678,12 +1678,12 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      C
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Assembly
                     </div>
                             <small>
-                                <div>4.24 kB</div>
-                                <div>1.81%</div>
+                                <div>4.95 kB</div>
+                                <div>2.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1710,12 +1710,12 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Assembly
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      C
                     </div>
                             <small>
-                                <div>4.95 kB</div>
-                                <div>2.11%</div>
+                                <div>5.99 kB</div>
+                                <div>2.55%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1734,7 +1734,7 @@
                       QMake
                     </div>
                             <small>
-                                <div>1.75 kB</div>
+                                <div>1.74 kB</div>
                                 <div>0.74%</div>
                             </small>
                         </div>
@@ -1932,7 +1932,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2021, 17:15:07 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 30 Nov 2021, 18:16:13 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
