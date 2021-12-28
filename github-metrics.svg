@@ -1649,21 +1649,21 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 141 edited files from 86 commits over last 81 days
+            estimation from 91 edited files from 86 commits over last 81 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.8016164274928" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="274.8016164274928" y="0" width="86.64608168189449" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="361.44769810938726" y="0" width="34.346806374596106" height="8" fill="#185619"/>
-                    <rect mask="url(#languages-bar)" x="395.79450448398336" y="0" width="17.43632574894755" height="8" fill="#9DC3FF"/>
-                    <rect mask="url(#languages-bar)" x="413.2308302329309" y="0" width="16.633005154682664" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="429.86383538761356" y="0" width="13.089856833118203" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="442.9536922207318" y="0" width="9.60103937300161" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="452.55473159373344" y="0" width="7.445268406266609" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.3663976210705" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="345.3663976210705" y="0" width="43.23736193712829" height="8" fill="#185619"/>
+                    <rect mask="url(#languages-bar)" x="388.6037595581988" y="0" width="21.94966015293118" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="410.55341971113" y="0" width="20.896877655055224" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="431.4502973661852" y="0" width="12.086236193712828" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="443.53653355989803" y="0" width="6.380203908241292" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="449.91673746813933" y="0" width="5.952740016992354" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="455.86947748513165" y="0" width="4.13052251486831" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1674,49 +1674,7 @@
                     </div>
                             <small>
                                 <div>141 kB</div>
-                                <div>59.74%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#185619" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      LLVM
-                    </div>
-                            <small>
-                                <div>17.7 kB</div>
-                                <div>7.47%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#0060ac" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      XML
-                    </div>
-                            <small>
-                                <div>8.57 kB</div>
-                                <div>3.62%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Assembly
-                    </div>
-                            <small>
-                                <div>4.95 kB</div>
-                                <div>2.09%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      JSON
-                    </div>
-                            <small>
-                                <div>44.6 kB</div>
-                                <div>18.84%</div>
+                                <div>75.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1726,7 +1684,49 @@
                     </div>
                             <small>
                                 <div>8.99 kB</div>
-                                <div>3.79%</div>
+                                <div>4.77%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Assembly
+                    </div>
+                            <small>
+                                <div>4.95 kB</div>
+                                <div>2.63%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#cb171e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      YAML
+                    </div>
+                            <small>
+                                <div>2.44 kB</div>
+                                <div>1.29%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#185619" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      LLVM
+                    </div>
+                            <small>
+                                <div>17.7 kB</div>
+                                <div>9.4%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#0060ac" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      XML
+                    </div>
+                            <small>
+                                <div>8.55 kB</div>
+                                <div>4.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1735,8 +1735,8 @@
                       C++
                     </div>
                             <small>
-                                <div>6.75 kB</div>
-                                <div>2.85%</div>
+                                <div>2.61 kB</div>
+                                <div>1.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1745,8 +1745,8 @@
                       C
                     </div>
                             <small>
-                                <div>3.84 kB</div>
-                                <div>1.62%</div>
+                                <div>1.69 kB</div>
+                                <div>0.9%</div>
                             </small>
                         </div>
                     </section>
@@ -1978,7 +1978,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2021, 03:14:43 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 29 Dec 2021, 04:19:16 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
