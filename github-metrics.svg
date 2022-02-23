@@ -313,14 +313,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.2416898170323" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="312.2416898170323" y="0" width="78.77593639237475" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="391.017626209407" y="0" width="39.000191589232685" height="8" fill="#185619"/>
-                    <rect mask="url(#languages-bar)" x="430.01781779863967" y="0" width="19.798639716447934" height="8" fill="#9DC3FF"/>
-                    <rect mask="url(#languages-bar)" x="449.8164575150876" y="0" width="5.754957371395728" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.57141488648335" y="0" width="2.3376760226075297" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.9090909090909" y="0" width="1.229428106140435" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="459.13851901523134" y="0" width="0.861480984768656" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.4492327783219" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="308.4492327783219" y="0" width="82.84252911089347" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="391.2917618892154" y="0" width="38.52649907498096" height="8" fill="#185619"/>
+                    <rect mask="url(#languages-bar)" x="429.8182609641964" y="0" width="19.558167374034173" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="449.37642833823054" y="0" width="5.685058221786919" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="455.06148656001744" y="0" width="2.30928283817608" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.3707693981935" y="0" width="1.4147350092501905" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.7855044074437" y="0" width="1.2144955925563174" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -333,7 +333,7 @@
                             </div>
                             <small>
                                 <div>141 kB</div>
-                                <div>67.88%</div>
+                                <div>67.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -345,7 +345,7 @@
                             </div>
                             <small>
                                 <div>17.7 kB</div>
-                                <div>8.48%</div>
+                                <div>8.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -357,19 +357,19 @@
                             </div>
                             <small>
                                 <div>2.61 kB</div>
-                                <div>1.25%</div>
+                                <div>1.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#cb171e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                YAML
+                                Makefile
                             </div>
                             <small>
-                                <div>558 bytes</div>
-                                <div>0.27%</div>
+                                <div>650 bytes</div>
+                                <div>0.31%</div>
                             </small>
                         </div>
                     </section>
@@ -382,8 +382,8 @@
                                 C
                             </div>
                             <small>
-                                <div>35.7 kB</div>
-                                <div>17.13%</div>
+                                <div>38 kB</div>
+                                <div>18.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -395,7 +395,7 @@
                             </div>
                             <small>
                                 <div>8.99 kB</div>
-                                <div>4.3%</div>
+                                <div>4.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -407,19 +407,19 @@
                             </div>
                             <small>
                                 <div>1.06 kB</div>
-                                <div>0.51%</div>
+                                <div>0.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#cb171e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Makefile
+                                YAML
                             </div>
                             <small>
-                                <div>391 bytes</div>
-                                <div>0.19%</div>
+                                <div>558 bytes</div>
+                                <div>0.26%</div>
                             </small>
                         </div>
                     </section>
@@ -626,7 +626,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2022, 12:22:15 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Feb 2022, 13:16:08 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
