@@ -326,14 +326,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.55861745281436" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="293.55861745281436" y="0" width="73.01183412115726" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="366.57045157397164" y="0" width="38.630192094941165" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.2006436689128" y="0" width="35.599919541385894" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="440.80056321029866" y="0" width="8.188675450065373" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="448.98923866036404" y="0" width="7.857118911126756" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="456.8463575714908" y="0" width="2.0664454054778907" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.9128029769687" y="0" width="1.0871970230312784" height="8" fill="#9c4221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.52011913060005" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="277.52011913060005" y="0" width="69.00291489766175" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="346.5230340282618" y="0" width="57.496356377922815" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="404.01939040618464" y="0" width="37.842658893606234" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="441.8620492997909" y="0" width="7.731766047778974" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="449.5938153475699" y="0" width="7.425701793295736" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="457.0195171408656" y="0" width="1.9529814333692415" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.97249857423486" y="0" width="1.0275014257651607" height="8" fill="#9c4221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -346,19 +346,19 @@
                             </div>
                             <small>
                                 <div>38 kB</div>
-                                <div>63.82%</div>
+                                <div>60.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>5.01 kB</div>
-                                <div>8.4%</div>
+                                <div>7.89 kB</div>
+                                <div>12.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -370,7 +370,7 @@
                             </div>
                             <small>
                                 <div>1.06 kB</div>
-                                <div>1.78%</div>
+                                <div>1.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -382,7 +382,7 @@
                             </div>
                             <small>
                                 <div>268 bytes</div>
-                                <div>0.45%</div>
+                                <div>0.42%</div>
                             </small>
                         </div>
                     </section>
@@ -396,19 +396,19 @@
                             </div>
                             <small>
                                 <div>9.47 kB</div>
-                                <div>15.87%</div>
+                                <div>15%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jupyter Notebook
+                                JavaScript
                             </div>
                             <small>
-                                <div>4.62 kB</div>
-                                <div>7.74%</div>
+                                <div>5.19 kB</div>
+                                <div>8.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -420,7 +420,7 @@
                             </div>
                             <small>
                                 <div>1.02 kB</div>
-                                <div>1.71%</div>
+                                <div>1.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -432,7 +432,7 @@
                             </div>
                             <small>
                                 <div>141 bytes</div>
-                                <div>0.24%</div>
+                                <div>0.22%</div>
                             </small>
                         </div>
                     </section>
@@ -611,7 +611,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2022, 23:19:32 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Mar 2022, 00:25:31 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
