@@ -22,7 +22,7 @@ jobs:
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
           config_timezone: Asia/Hong_Kong # Set timezone
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_ignored: html, css, scss                     # List of languages to ignore
           plugin_languages_limit: 8                                     # Display up to 8 languages
           plugin_languages_sections: most-used, recently-used           # Display most used and recently used
