@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="932" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="979" class="">
     <defs>
         <style/>
     </defs>
@@ -391,6 +391,41 @@
                     <section class="column chart">
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">Cuda</span>
+                                <div class="bar" style="width: 69.82737359289519%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">87%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Jupyter Notebook</span>
+                                <div class="bar" style="width: 4.98888861952209%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">C++</span>
+                                <div class="bar" style="width: 0.6407912919101069%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">C</span>
+                                <div class="bar" style="width: 0.16446459308104439%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">CMake</span>
+                                <div class="bar" style="width: 0.1268394385318432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Shell</span>
+                                <div class="bar" style="width: 0.04964968847729642%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Python</span>
+                                <div class="bar" style="width: 0.04926180028606754%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -473,7 +508,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 23:21:35 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 Apr 2022, 00:28:57 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
