@@ -3,4 +3,4 @@
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/ChenQiqian/ChenQiqian/blob/master/github-metrics.svg)
 
-![](https://wakatime.com/share/@chenqiqian/b508c283-df0a-462e-ab4d-fe350d129aee.svg)
+<img src="https://wakatime.com/share/@chenqiqian/102089f6-88b1-4701-ba8b-3cac8236c1b5.svg" style="width: 500px;"/>
