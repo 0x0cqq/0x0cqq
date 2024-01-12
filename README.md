@@ -3,11 +3,11 @@
 ## [Repo Catalog](./repo_catalog.md)
 
 
-## Github Metrics
+## GitHub Metrics
 
 <!-- If you're using "main" as the default branch -->
 ![Metrics](https://github.com/ChenQiqian/ChenQiqian/blob/master/github-metrics.svg)
 
-## WakaTime Metrics
+## Wakatime Metrics
 
 <img src="https://wakatime.com/share/@chenqiqian/102089f6-88b1-4701-ba8b-3cac8236c1b5.svg" style="width: 500px;"/>
