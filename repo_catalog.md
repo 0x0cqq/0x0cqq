@@ -12,11 +12,11 @@
 
 ## Year 2024 & Ongoing
 
-| Name                                                                     | Technical Stack | Field                       | Description / 描述 |
-| ------------------------------------------------------------------------ | --------------- | --------------------------- | ------------------ |
-| [Graph AutoTune](https://github.com/0x0cqq/GraphAutoTune)                   | C++/CUDA/Python | Parallel Computing/ML       | ...                |
-| [Collision Detection GPU](https://github.com/0x0cqq/CollisionDetection-GPU) | Rust/Web GPU    | Parallel Computing/Graphics | ...                |
-| [THU Thesis Typst](https://github.com/0x0cqq/thu-thesis-typst)              | Typst           | Typesetting                 | ...                |
+| Name                                                         | Technical Stack | Field                       | Description / 描述                                           |
+| ------------------------------------------------------------ | --------------- | --------------------------- | ------------------------------------------------------------ |
+| [Graph AutoTune](https://github.com/0x0cqq/GraphAutoTune)    | C++/CUDA/Python | Parallel Computing/ML       | ...                                                          |
+| [THU Thesis Typst](https://github.com/0x0cqq/thu-thesis-typst) | Typst           | Typesetting                 | ...                                                          |
+| [Collision Detection GPU](https://github.com/0x0cqq/CollisionDetection-GPU) | Rust/WebGPU     | Parallel Computing/Graphics | The course project of "Algorithms and Techniques in Computer Animation", a parallel collision detection algorithm in Rust and wgpu package. 使用 Rust 语言和 wgpu 包实现的并行碰撞检测。 |
 
 ## Year 2023
 
