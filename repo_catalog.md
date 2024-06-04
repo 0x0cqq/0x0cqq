@@ -2,11 +2,11 @@
 
 ## Long Term
 
-| Name                                                    | Since | Description / 描述                                                                                                     |
-| ------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------- |
-| [Homepage](https://github.com/0x0cqq/Homepage)             | 2022  | Personal website, in an academic way. 个人主页，学术向。                                                               |
-| [Learning Notes](https://github.com/0x0cqq/learn-notes)    | 2021  | A sorted learning notes(in Chinese) from my undergraduate courses, keep updating. 整理我的本科笔记和知识，持续更新中。 |
-| [Github Pages](https://github.com/0x0cqq/0x0cqq.github.io) | 2017  | Blog, in Chinese. Not update frequently. 博客，主要是高中 OI 经历，散落本科学期总结和随笔，不怎么更新了。              |
+| Name                                                       | Since | Description / 描述                                           |
+| ---------------------------------------------------------- | ----- | ------------------------------------------------------------ |
+| [Homepage](https://github.com/0x0cqq/Homepage)             | 2022  | Personal academic website. 个人主页，学术向。                |
+| [Learning Notes](https://github.com/0x0cqq/learn-notes)    | 2021  | Learning notes(in Chinese) from my undergraduate courses, keep updating. 整理我的本科笔记和知识，持续更新中。 |
+| [Github Pages](https://github.com/0x0cqq/0x0cqq.github.io) | 2017  | Blog, in Chinese. Not update frequently. 博客，主要是高中 OI 经历，散落本科学期总结和随笔，不怎么更新了。 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 | Name                                                         | Technical Stack | Field                       | Description / 描述                                           |
 | ------------------------------------------------------------ | --------------- | --------------------------- | ------------------------------------------------------------ |
-| [Graph AutoTune](https://github.com/0x0cqq/GraphAutoTune)    | C++/CUDA/Python | Parallel Computing/ML       | ...                                                          |
-| [THU Thesis Typst](https://github.com/0x0cqq/thu-thesis-typst) | Typst           | Typesetting                 | ...                                                          |
-| [Collision Detection GPU](https://github.com/0x0cqq/CollisionDetection-GPU) | Rust/WebGPU     | Parallel Computing/Graphics | The course project of "Algorithms and Techniques in Computer Animation", a parallel collision detection algorithm in Rust and wgpu package. 使用 Rust 语言和 wgpu 包实现的并行碰撞检测。 |
+| [Graph AutoTune](https://github.com/0x0cqq/GraphAutoTune)    | C++/CUDA/Python | Parallel Computing/ML       | The undergraduate thesis project on graph mining. Focusing on a new GPU-based graph mining framework and the autotuning corresponding to it. 本科毕设项目，GPU 图挖掘框架以及对应的自动调优。 |
+| [THU Thesis Typst](https://github.com/0x0cqq/thu-thesis-typst) | Typst           | Typesetting                 | The typst template for Tsinghua University's Undergraduate Thesis(and maybe Graduate). 清华大学本科综合论文训练的 Typst 模板。也许会适配研究生，应该不会。 |
+| [Collision Detection GPU](https://github.com/0x0cqq/CollisionDetection-GPU) | Rust/WebGPU     | Parallel Computing/Graphics | The course project of "Algorithms and Techniques in Computer Animation", a parallel collision detection algorithm in Rust and wgpu package. 计算机动画课程的大作业，使用 Rust 语言和 wgpu 包实现的并行碰撞检测。 |
 
 ## Year 2023
 
