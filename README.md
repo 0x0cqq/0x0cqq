@@ -11,3 +11,5 @@
 ## Wakatime Metrics
 
 <img src="https://wakatime.com/share/@chenqiqian/102089f6-88b1-4701-ba8b-3cac8236c1b5.svg" style="width: 500px;"/>
+
+<img src="https://wakatime.com/share/@chenqiqian/2fc0d79b-450a-4876-aacb-03293790f57b.svg" style="width: 500px;"/>
